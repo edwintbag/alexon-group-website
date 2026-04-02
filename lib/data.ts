@@ -6,31 +6,31 @@ export interface HeroSlide {
 
 export const HERO_SLIDES: HeroSlide[] = [
   {
-    img: "/images/alexon.jpg",
+    img: "/images/alexon.JPG",
     label: "Building Infrastructure",
   },
   {
-    img: "/images/alexon1.jpg",
+    img: "/images/alexon1.JPG",
     label: "Real Estate Development",
   },
   {
-    img: "/images/alexon2.jpg",
+    img: "/images/alexon2.JPG",
     label: "Agribusiness Excellence",
   },
   {
-    img: "/images/alexon3.jpg",
+    img: "/images/alexon3.JPG",
     label: "Logistics & Supply Chain",
   },
   {
-    img: "/images/alexon4.jpg",
+    img: "/images/alexon4.JPG",
     label: "Logistics & Supply Chain",
   },
   {
-    img: "/images/alexon5.jpg",
+    img: "/images/alexon5.JPG",
     label: "Logistics & Supply Chain",
   },
   {
-    img: "/images/alexon6.jpg",
+    img: "/images/alexon6.JPG",
     label: "Logistics & Supply Chain",
   },
 ];
