@@ -123,14 +123,6 @@ All colours and typography live as CSS custom properties in `globals.css`:
 
 ---
 
-## 📞 Contact Details (Edit in `lib/data.ts`)
-
-- **Phone:** 0726 966 073 / 0701 381 197  
-- **Email:** samaalex530@gmail.com  
-- **Location:** Ugunja Town, Siaya County, Kenya
-
----
-
 ## 🔧 Customisation Tips
 
 1. **Update products** → edit `lib/products.ts`
