@@ -61,12 +61,12 @@ export default function HomePage() {
             <div className="about-image-stack">
               <img
                 className="about-img-main"
-                src="/images/alexon11.JPG"
+                src="/images/alexon11.jpg"
                 alt="Construction site"
               />
               <img
                 className="about-img-accent"
-                src="/images/alexon13.JPG"
+                src="/images/alexon13.jpg"
                 alt="Agriculture"
               />
               <div
