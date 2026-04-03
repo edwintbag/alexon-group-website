@@ -16,7 +16,7 @@ export const PRODUCTS: Product[] = [
     category: "Paving",
     price: "KES 1100 per m²",
     unit: "min. 500 pcs",
-    img: "/images/products/cabro.jpg",
+    img: "/images/products/cabro.JPG",
     desc: "High-density interlocking paving blocks for driveways, walkways and public spaces.",
     details: [
       "Compressive strength: ≥ 40 MPa",
@@ -32,7 +32,7 @@ export const PRODUCTS: Product[] = [
     category: "Blocks",
     price: "KES 65 / pc",
     unit: "min. 200 pcs",
-    img: "/images/products/hblock.jpg",
+    img: "/images/products/hblock.JPG",
     desc: "Standard and custom hollow blocks for residential and commercial wall construction.",
     details: [
       "Standard size: 400 × 200 × 150 mm",
@@ -48,7 +48,7 @@ export const PRODUCTS: Product[] = [
     category: "Drainage",
     price: "KES 3,500 / pc",
     unit: "per piece",
-    img: "/images/products/culverts.jpg",
+    img: "/images/products/culverts.JPG",
     desc: "Reinforced precast culverts for road crossings, drainage channels, and stormwater systems.",
     details: [
       "Diameter options: 1ft, 1.5ft, 2ft, 3ft",
@@ -64,7 +64,7 @@ export const PRODUCTS: Product[] = [
     category: "Security",
     price: "KES 1,450/ pc",
     unit: "min. 10 pcs",
-    img: "/images/products/fencingpole.jpg",
+    img: "/images/products/fencingpole.JPG",
     desc: "Durable precast concrete fencing poles for farms, estates, and industrial perimeters.",
     details: [
       "Standard height: 8ft,9ft,10ft",
@@ -80,7 +80,7 @@ export const PRODUCTS: Product[] = [
     category: "Roads",
     price: "KES 280 / pc",
     unit: "min. 100 pcs",
-    img: "/images/products/roadkerb.jpg",
+    img: "/images/products/roadkerb.JPG",
     desc: "Precision-cast road kerb stones and drainage channels for roads and parking areas.",
     details: [
       "Standard length: 1 m per piece",
@@ -96,7 +96,7 @@ export const PRODUCTS: Product[] = [
     category: "Aggregates",
     price: "KES 12,000 / tonne",
     unit: "per tonne",
-    img: "/images/products/sand.jpg",
+    img: "/images/products/sand.JPG",
     desc: "Clean, graded washed sand suitable for plastering, block-laying, and concrete mixing.",
     details: [
       "Zone II grading (BS 882)",
@@ -112,7 +112,7 @@ export const PRODUCTS: Product[] = [
     category: "Aggregates",
     price: "KES 15,000 / tonne",
     unit: "per tonne",
-    img: "/images/products/dust.jpg",
+    img: "/images/products/dust.JPG",
     desc: "High-grade crushed granite aggregate for foundations, concrete production, and road base.",
     details: [
       "Nominal size: 20 mm",
