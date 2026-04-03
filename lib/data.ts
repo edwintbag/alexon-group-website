@@ -218,7 +218,7 @@ export const PROJECTS: ProjectItem[] = [
   {
     title: "Siaya County Road Works",
     tag: "Civil Infrastructure",
-    img: "/images/road.jpeg",
+    img: "/images/road.jpg",
     status: "Completed",
   },
   {

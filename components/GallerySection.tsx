@@ -21,14 +21,14 @@ const GALLERY_ITEMS: GalleryItem[] = [
     title: "Solid Concrete Blocks",
     category: "Concrete Products",
     tag: "Blocks",
-    img: "https://images.unsplash.com/photo-1616401784845-180882ba9ba8?w=600&q=80",
+    img: "/images/block1.jpg",
   },
   {
     id: 2,
     title: "Hollow Building Blocks",
     category: "Concrete Products",
     tag: "Blocks",
-    img: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=80",
+    img: "/images/hblock1.jpg",
   },
   {
     id: 3,
@@ -100,7 +100,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
     title: "Excavator — Site Ready",
     category: "Equipment Hire",
     tag: "Heavy Plant",
-    img: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+    img: "https://images/excavator1.jpeg",
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
     title: "Tipper Trucks",
     category: "Equipment Hire",
     tag: "Haulage",
-    img: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&q=80",
+    img: "/images/alexon8.jpg",
   },
 ];
 
