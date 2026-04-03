@@ -17,38 +17,38 @@ interface NewsItem {
 const NEWS_ITEMS: NewsItem[] = [
   {
     id: 1,
-    title: "Alexon Group Expands Precast Production Capacity by 40%",
+    title: "Ukwala Residential Project Moves Into Active Development Phase",
     excerpt:
-      "We have completed a major upgrade to our manufacturing plant in Ugunja, significantly boosting output of hollow blocks, culverts, and cabro paving blocks to meet growing regional demand.",
-    date: "March 18, 2025",
-    dateIso: "2025-03-18",
-    category: "Company News",
-    img: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=700&q=80",
-    href: "/news/precast-production-expansion",
+      "Construction has officially commenced on our Ukwala residential development, marking a major step in delivering modern, affordable housing solutions within Siaya County.",
+    date: "March 25, 2025",
+    dateIso: "2025-03-25",
+    category: "Projects",
+    img: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=700&q=80",
+    href: "/news/ukwala-residential-project",
     readTime: "3 min read",
   },
   {
     id: 2,
-    title: "KEBS Certification Achieved for Our Full Concrete Block Range",
+    title: "Alexon Group Launches New Quarry Development in Siaya",
     excerpt:
-      "All Alexon Group precast products now carry Kenya Bureau of Standards (KEBS) certification, reinforcing our commitment to building materials that meet the highest safety and quality benchmarks.",
-    date: "February 28, 2025",
-    dateIso: "2025-02-28",
-    category: "Certification",
-    img: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=700&q=80",
-    href: "/news/kebs-certification",
+      "We have initiated the development of a new quarry site to strengthen our supply of high-quality aggregates, ensuring consistent material availability for construction projects across the region.",
+    date: "March 12, 2025",
+    dateIso: "2025-03-12",
+    category: "Company News",
+    img: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=700&q=80",
+    href: "/news/quarry-development",
     readTime: "4 min read",
   },
   {
     id: 3,
-    title: "New Equipment Hire Fleet: Excavators & Tippers Now Available",
+    title: "New Excavator Deployed to Enhance Site Operations",
     excerpt:
-      "Our equipment hire division has added three new excavators and two heavy-duty tipper trucks to the fleet, making large-scale civil works more accessible to contractors across Siaya and Kisumu counties.",
-    date: "February 10, 2025",
-    dateIso: "2025-02-10",
+      "Our equipment fleet continues to grow with the addition of a new excavator, improving efficiency in earthworks, site preparation, and large-scale construction activities.",
+    date: "March 5, 2025",
+    dateIso: "2025-03-05",
     category: "Equipment",
-    img: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=80",
-    href: "/news/new-equipment-fleet",
+    img: "https://images.unsplash.com/photo-1581093458791-9f3c3a5bdbb0?w=700&q=80",
+    href: "/news/new-excavator-site",
     readTime: "2 min read",
   },
 ];
@@ -58,8 +58,8 @@ const CATEGORY_COLORS: Record<string, { bg: string; color: string }> = {
   "Company News": { bg: "rgba(26,82,196,0.09)", color: "#1A52C4" },
   Certification:  { bg: "rgba(201,160,48,0.12)", color: "#8A6800" },
   Equipment:      { bg: "rgba(224,124,48,0.09)", color: "#B85E18" },
+  Projects:       { bg: "rgba(46,125,50,0.10)", color: "#2E7D32" },
 };
-
 /* ── Component ─────────────────────────────────────────────── */
 export default function NewsSection() {
   return (
