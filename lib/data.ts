@@ -138,7 +138,7 @@ export const SERVICES_DETAIL: ServiceDetail[] = [
     icon: "🪨",
     title: "Quarry & Materials",
     slug: "quarry",
-    img: "/images/alexon4.jpg",
+    img: "/images/alexon4.JPG",
     desc: "Premium aggregates, granite, and sand sourced directly from our quarry operations.",
     fullDesc:
       "Premium aggregates, granite, and sand sourced directly from our quarry operations. We manufacture durable, certified precast concrete products that support East Africa's fast-paced development.",
@@ -154,7 +154,7 @@ export const SERVICES_DETAIL: ServiceDetail[] = [
     icon: "🚜",
     title: "Equipment Hire",
     slug: "equipment",
-    img: "/images/alexon7.jpg",
+    img: "/images/alexon7.JPG",
     desc: "Modern, well-maintained construction equipment for short or long-term hire.",
     fullDesc:
       "Modern, well-maintained construction equipment available for short or long-term hire. Our fleet supports contractors and developers across Kenya with reliable machinery and trained operators.",
@@ -171,7 +171,7 @@ export const SERVICES_DETAIL: ServiceDetail[] = [
     icon: "🚛",
     title: "Supply Chain Logistics",
     slug: "logistics",
-    img: "/images/alexon8.jpg",
+    img: "/images/alexon8.JPG",
     desc: "The operational backbone of our integrated model.",
     fullDesc:
       "The operational backbone of our integrated model. We manage precision delivery across Kenya and East Africa, using modern analytics to plan optimal routes and ensure timely delivery.",
@@ -236,7 +236,7 @@ export const PROJECTS: ProjectItem[] = [
   {
     title: "Quarry Operations — Granite",
     tag: "Quarry & Mining",
-    img: "/images/alexon1.jpg",
+    img: "/images/alexon1.JPG",
     status: "Ongoing",
   },
   {
