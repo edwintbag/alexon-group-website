@@ -61,7 +61,7 @@ export default function HomePage() {
             <div className="about-image-stack">
               <img
                 className="about-img-main"
-                src="/images/alexon11.jpg"
+                src="/images/alexon11.JPG"
                 alt="Construction site"
               />
               <img
