@@ -112,7 +112,7 @@ export default function AboutPage() {
             </div>
             <div>
               <img
-                src="/images/alexon9.jpg"
+                src="/images/alexon9.JPG"
                 alt="Alexon Group Team"
                 style={{ width: "100%", height: 400, objectFit: "cover" }}
               />
