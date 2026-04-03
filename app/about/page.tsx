@@ -337,7 +337,7 @@ export default function AboutPage() {
           <div className="grid-2" style={{ alignItems: "center", gap: 64 }}>
             <div>
               <img
-                src="/images/alexon10.jpg"
+                src="/images/alexon10.JPG"
                 alt="Sustainability"
                 style={{ width: "100%", height: 420, objectFit: "cover" }}
               />
